@@ -1,0 +1,19 @@
+-----------------------------------------HELP-------------------------------------------------
+
+
+convert time Rhour to Militarytime format num AM /*like 10.25*/ : to convert 12 to 24 hour
+convert time Rhour to Militarytime format num PM /*like 10.25*/ : to convert 12 to 24 hour
+convert time Militarytime to Rhour format num/*like 10.25*/ : to convert 24 to 12 hour
+-----------------------------------------------------------------------------------------------
+
+
+convert time Rhour to Militarytime format 10.26 PM
+       22.26 IST
+convert time Militarytime to Rhour format 18.34
+      6.34 PM
+convert time Rhour to Militarytime format 05.48 AM
+       5.48 IST
+convert time Rhour to Militarytime format 14.45 AM
+       Not Validtime
+convert time Militarytime to Rhour format 06.18
+      6.18 AM
